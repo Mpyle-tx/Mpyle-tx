@@ -1,6 +1,7 @@
 # Michael Pyle
 
 **Kilgore, TX** | [michael.pyle@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=michael.pyle@gmail.com) | [LinkedIn](https://www.linkedin.com/in/michaelpyletx) | [GitHub](https://github.com/Mpyle-tx)
+**2026 NSF/AACC ATE Student Award for Excellence**
 
 ---
 
@@ -41,7 +42,16 @@ IT professional pursuing an AAS in Network Administration & Cybersecurity, combi
 | CompTIA Network+ | Earned |
 | Help Desk Technician Certificate, Kilgore College | Earned, May 2026 |
 | CompTIA Linux+ | Voucher secured; practice exams scoring 85%+ |
+| AWS Academy Graduate, Cloud Foundations | Earned, October 2026 |
 | CompTIA Security+ | In progress |
+
+---
+
+## Honors and Presentations
+
+- **2026 Advanced Technological Education (ATE) Student Award for Excellence**, NSF / AACC, presented at the Student/Alumni Recognition Breakfast, October 2026
+- **Poster presenter, 2026 ATE Principal Investigators Conference**, Washington, D.C., October 2026. Represented Kilgore College with "Building a Cybersecurity Career Through Certifications and Hands-On IT Experience"
+- **Phi Sigma Pi National Honor Fraternity**, member since October 2026
 
 ---
 
