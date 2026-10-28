@@ -15,12 +15,12 @@ A Python platform that registers data products, lists them in a catalog, and ser
 
 **Tools:** Python, pandas, Git
 
-### Enterprise Virtualization Home Lab
+### [Enterprise Virtualization Home Lab](https://github.com/Mpyle-tx/Home-Lab)
 A Proxmox VE lab on a Dell PowerEdge server for practicing enterprise infrastructure and security configurations, including a local AI environment (Ollama, Open WebUI) with GPU passthrough.
 
 **Tools:** Proxmox VE, Docker, Linux
 
-### Kilgore Automotive IT Infrastructure Build
+### [Kilgore Automotive IT Infrastructure Build](https://github.com/Mpyle-tx/Kilgore-Automotive-IT-Build)
 Designed and deployed a Proxmox-based network for a small business: five VLANs on MikroTik RouterOS (servers, office, phones, payment, management), remote access, automated backups, and UPS-monitored power.
 
 **Tools:** Proxmox VE, MikroTik RouterOS, VLANs
