@@ -4,7 +4,7 @@
 
 AAS in Network Administration & Cybersecurity at Kilgore College (expected December 2026). I pair CompTIA certifications with hands-on infrastructure work, from a self-built enterprise homelab to a fully deployed client network.
 
-[Résumé](resume.md) | [LinkedIn](https://www.linkedin.com/in/michaelpyletx) | [Email](mailto:michael.pyle@gmail.com)
+[Résumé](resume.md) | [LinkedIn](https://www.linkedin.com/in/michaelpyletx) | [Email](https://mail.google.com/mail/?view=cm&fs=1&to=michael.pyle@gmail.com)
 
 ---
 
